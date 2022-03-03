@@ -7,3 +7,4 @@ List of **things**
 
         -[X] checked item1
         -[X] checked item2
+        -[X] checked item3
