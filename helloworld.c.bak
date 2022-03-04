@@ -1,7 +1,0 @@
-#include <stdio.h>
-
-int mani()
-{
-	printf("hellow world!");
-	return 0;
-}
